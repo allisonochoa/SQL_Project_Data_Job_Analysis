@@ -1,7 +1,7 @@
 # 👋 Introduction
 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
 
-Shout out to Luke Barousse's for his amazing [SQL Course](https://www.lukebarousse.com/sql). As this project is a direct result of my learning journey with him. 
+Shout out to Luke Barousse for his amazing [SQL Course](https://www.lukebarousse.com/sql). As this project is a direct result of my learning journey with him. 
 
 🔍 SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
